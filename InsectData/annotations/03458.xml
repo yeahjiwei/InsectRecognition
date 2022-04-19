@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>03458.jpg</filename>
+		<size>
+			<width>5472</width>
+			<height>3648</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>∞◊±≥∑… ≠</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>4662</xmin>
+				<ymin>3321</ymin>
+				<xmax>4808</xmax>
+				<ymax>3386</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∫÷∑… ≠ Ù</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1751</xmin>
+				<ymin>2451</ymin>
+				<xmax>1857</xmax>
+				<ymax>2521</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∞◊±≥∑… ≠</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>4662</xmin>
+				<ymin>3321</ymin>
+				<xmax>4808</xmax>
+				<ymax>3386</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∫÷∑… ≠ Ù</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1751</xmin>
+				<ymin>2451</ymin>
+				<xmax>1857</xmax>
+				<ymax>2521</ymax>
+			</bndbox>
+		</object>
+	</annotation>

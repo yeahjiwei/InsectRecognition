@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>02109.jpg</filename>
+		<size>
+			<width>5472</width>
+			<height>3648</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>∞◊±≥∑… ≠</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>2150</xmin>
+				<ymin>333</ymin>
+				<xmax>2278</xmax>
+				<ymax>392</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∞◊±≥∑… ≠</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>3723</xmin>
+				<ymin>96</ymin>
+				<xmax>3835</xmax>
+				<ymax>159</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∫÷∑… ≠ Ù</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>2594</xmin>
+				<ymin>1687</ymin>
+				<xmax>2648</xmax>
+				<ymax>1816</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∫÷∑… ≠ Ù</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1889</xmin>
+				<ymin>1203</ymin>
+				<xmax>2001</xmax>
+				<ymax>1253</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∞◊±≥∑… ≠</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>2150</xmin>
+				<ymin>333</ymin>
+				<xmax>2278</xmax>
+				<ymax>392</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∞◊±≥∑… ≠</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>3723</xmin>
+				<ymin>96</ymin>
+				<xmax>3835</xmax>
+				<ymax>159</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∫÷∑… ≠ Ù</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>2594</xmin>
+				<ymin>1687</ymin>
+				<xmax>2648</xmax>
+				<ymax>1816</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>∫÷∑… ≠ Ù</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1889</xmin>
+				<ymin>1203</ymin>
+				<xmax>2001</xmax>
+				<ymax>1253</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,23 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# PASCAL VOC dataset http://host.robots.ox.ac.uk/pascal/VOC by University of Oxford
+# Example usage: python train.py --data VOC.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └── VOC  ← downloads here (2.8 GB)
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+#path: ../datasets/VOC
+train: InsectData/train.txt
+
+val: InsectData/val.txt
+
+
+# Classes
+nc: 29
+names: ['无（不含虫子）','大螟','二化螟','稻纵卷叶螟','白背飞虱','褐飞虱属',
+        '地老虎','蝼蛄','粘虫','草地螟','甜菜夜蛾','黄足猎蝽',
+        '八点灰灯蛾','棉铃虫','二点委夜蛾','甘蓝夜蛾','蟋蟀','黄毒蛾',
+        '稻螟蛉','紫条尺蛾','水螟蛾','线委夜蛾','甜菜白带野螟','歧角螟',
+        '瓜绢野螟','豆野螟','石蛾','大黑鳃金龟','干纹冬夜蛾']
